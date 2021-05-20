@@ -9,7 +9,7 @@ Skills: Flutter / Android / Python / HTML / CSS / Bootstrap / JavaScript / PHP /
 -  I’m currently learning Data Science and Machine learning 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vibhutipatel222)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vibhuti-patel-a5ba821a4//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color = white>](https://github.com/vibhutipatel222)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vibhuti-patel-a5ba821a4//)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhutipatel222)](https://github.com/anuraghazra/github-readme-stats)
 
