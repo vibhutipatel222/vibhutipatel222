@@ -19,9 +19,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhutipatel222)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vibhutipatel222&show_icons=true)  
 
-<!--
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vibhutipatel222)  
 
 
