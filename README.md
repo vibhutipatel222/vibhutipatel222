@@ -8,10 +8,9 @@ I am a 3rd year B. Tech (Computer Engineering) Student in Devang Patel Institute
 * Python / Flask / Java
 * HTML / CSS / Bootstrap 
 * JavaScript / PHP 
-<br>
 
-* I am interested in Flutter Development, python programming and Data Science. 
-* I’m currently learning Data Science and Machine learning.
++ I am interested in Flutter Development, python programming and Data Science. 
++ I’m currently learning Data Science and Machine learning.
 
 ### Connect with me:
 
