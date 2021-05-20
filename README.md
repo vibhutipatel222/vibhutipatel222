@@ -10,9 +10,9 @@ Skills: Flutter / Android / Python / HTML / CSS / Bootstrap / JavaScript / PHP /
 
 ## Connect with me:
 
-<a href="linkedin.com/in/vibhuti-patel-a5ba821a4/" style="line-height:25px;vertical-align:middle"><img style="vertical-align:middle;display:inline-block" src='https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png' alt='linkedin' height='20'> <span style="line-height:25px;vertical-align:middle;"> linkedin.com/in/vibhuti-patel-a5ba821a4/</span></a>
+<a href="linkedin.com/in/vibhuti-patel-a5ba821a4/" style="line-height:25px;vertical-align:middle"><img style="vertical-align:middle;display:inline-block" src='https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png' alt='linkedin' height='20'> <span style="line-height:25px;vertical-align:middle;"> &ensp;linkedin.com/in/vibhuti-patel-a5ba821a4/</span></a>
 
-<a href="linkedin.com/in/vibhuti-patel-a5ba821a4/" style="line-height:25px;vertical-align:middle"><img style="vertical-align:middle;display:inline-block" src='https://icons.iconarchive.com/icons/cornmanthe3rd/metronome/256/Communication-email-blue-icon.png' alt='email' height='20'>  vibhutipatel20.06@gmail.com</a>
+<a href="linkedin.com/in/vibhuti-patel-a5ba821a4/" style="line-height:25px;vertical-align:middle"><img style="vertical-align:middle;display:inline-block" src='https://icons.iconarchive.com/icons/cornmanthe3rd/metronome/256/Communication-email-blue-icon.png' alt='email' height='20'>  &ensp;vibhutipatel20.06@gmail.com</a>
 </div>
 
 ## Languages and tools:
