@@ -10,9 +10,9 @@ Skills: Flutter / Android / Python / HTML / CSS / Bootstrap / JavaScript / PHP /
 
 ## Connect with me:
 
-[<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vibhuti-patel-a5ba821a4//)  linkedin.com/in/vibhuti-patel-a5ba821a4/
+[<img style="vertical-align:middle" src='https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png' alt='linkedin' height='25'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vibhuti-patel-a5ba821a4//)  linkedin.com/in/vibhuti-patel-a5ba821a4/
 
-<img src='https://cdn3.iconfinder.com/data/icons/blue-magic/256/email.png' alt='email' height='40'> vibhutipatel20.06@gmail.com
+<img  style="vertical-align:middle" src='https://cdn3.iconfinder.com/data/icons/blue-magic/256/email.png' alt='email' height='25'> <span>vibhutipatel20.06@gmail.com<span>
 
 ## Languages and tools:
 
