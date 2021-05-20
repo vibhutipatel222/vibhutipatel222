@@ -4,10 +4,10 @@
 I am a 3rd year B. Tech (Computer Engineering) Student in Devang Patel Institute of Advance Technology and Research - CHARUSAT UNIVERSITY.
 
 ## Skills:
-- Flutter / Android / Firebase
-- Python / Flask / Java
-- HTML / CSS / Bootstrap 
-- JavaScript / PHP 
+* Flutter / Android / Firebase
+* Python / Flask / Java
+* HTML / CSS / Bootstrap 
+* JavaScript / PHP 
 
 - I am interested in Flutter Development, python programming and Data Science. 
 - I’m currently learning Data Science and Machine learning.
