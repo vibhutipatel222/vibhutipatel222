@@ -21,6 +21,7 @@ I am a 3rd year B. Tech (Computer Engineering) Student in Devang Patel Institute
 ### Languages and tools:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhutipatel222&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=vibhutipatel222)
 
 <!--
 
