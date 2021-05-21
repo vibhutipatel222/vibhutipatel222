@@ -14,14 +14,13 @@ I am a 3rd year B. Tech (Computer Engineering) Student in Devang Patel Institute
 
 ### Connect with me:
 
-<a href="linkedin.com/in/vibhuti-patel-a5ba821a4/" style="line-height:25px;vertical-align:middle"><img style="vertical-align:middle;display:inline-block" src='linkin.svg' alt='linkedin' width='25' height='25'> <span style="line-height:25px;vertical-align:middle;"> &ensp;linkedin.com/in/vibhuti-patel-a5ba821a4/</span></a>
+<a href="linkedin.com/in/vibhuti-patel-a5ba821a4/" style="line-height:22px;vertical-align:middle"><img style="vertical-align:middle;display:inline-block" src='linkin.svg' alt='linkedin' width='22' height='22'> <span style="line-height:25px;vertical-align:middle;"> &ensp;linkedin.com/in/vibhuti-patel-a5ba821a4/</span></a>
 
-<a href="" style="line-height:25px;vertical-align:middle"><img style="vertical-align:middle;display:inline-block" src='mailb.svg' alt='email' height='25' width='25'> <span style="line-height:25px;vertical-align:middle;"> &ensp;vibhutipatel20.06@gmail.com</span></a>
+<a href="" style="line-height:22px;vertical-align:middle"><img style="vertical-align:middle;display:inline-block" src='mailb.svg' alt='email' height='22' width='22'> <span style="line-height:25px;vertical-align:middle;"> &ensp;vibhutipatel20.06@gmail.com</span></a>
 
 ### Languages and tools:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhutipatel222&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=vibhutipatel222)
 
 <!--
 
