@@ -1,4 +1,4 @@
-## Hi there 👋, I'm  Vibhuti Patel
+## Hi there <div class="tenor-gif-embed" data-postid="14457648" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/long-livethe-blob-sunglasses-smirk-smug-smiling-gif-14457648">Cool Emoji With Sunglasses GIF</a> from <a href="https://tenor.com/search/longlivetheblob-gifs">Longlivetheblob GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script> , I'm  Vibhuti Patel
 <!-- ![](https://image.freepik.com/free-vector/programmer-decorative-illustration-isometric-design_23-2148250395.jpg) -->
 
 I am a 3rd year B. Tech (Computer Engineering) Student in Devang Patel Institute of Advance Technology and Research - CHARUSAT UNIVERSITY. <a href="https://drive.google.com/file/d/1Fy4yE2OqpCJKfuD-XCYIiJmTFpKmfUC5/view?usp=sharing"> View Resume</a>
