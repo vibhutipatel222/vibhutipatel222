@@ -1,7 +1,7 @@
 ## Hi there , I'm  Vibhuti Patel <img src="https://media.tenor.com/images/2a487a6d1e796878bd8e7b472b5981cc/tenor.gif" height="28"></img>
 <!-- ![](https://image.freepik.com/free-vector/programmer-decorative-illustration-isometric-design_23-2148250395.jpg) -->
 
-I am a 3rd year B. Tech (Computer Engineering) Student in Devang Patel Institute of Advance Technology and Research - CHARUSAT UNIVERSITY. <a href="https://drive.google.com/file/d/1Fy4yE2OqpCJKfuD-XCYIiJmTFpKmfUC5/view?usp=sharing"> View Resume</a>
+I am a 3rd year B. Tech (Computer Engineering) Student in Devang Patel Institute of Advance Technology and Research - CHARUSAT UNIVERSITY. <a href="https://drive.google.com/file/d/1aijngRuVYZ2cbvywxuAoZ-AdL0hJ6d4S/view?usp=sharing"> View Resume</a>
 
 ## Skills:
 * Flutter / Android / Firebase
