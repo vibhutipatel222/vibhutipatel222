@@ -19,8 +19,7 @@ I am a 3rd year B. Tech (Computer Engineering) Student in Devang Patel Institute
 <a href="" style="line-height:22px;vertical-align:middle"><img style="vertical-align:middle;display:inline-block" src='mailb.svg' alt='email' height='22' width='22'> <span style="line-height:25px;vertical-align:middle;"> &ensp;vibhutipatel20.06@gmail.com</span></a>
 
 <details>
-  <summary>
-    
+  <summary> 
 ### Github stats:
 </summary>
   
