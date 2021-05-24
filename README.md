@@ -22,7 +22,7 @@ I am a 3rd year B. Tech (Computer Engineering) Student in Devang Patel Institute
   <summary> Github stats:
 </summary>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhutipatel222&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhutipatel222&theme=tokyonight&bg_color=30,#00F260,#0575E6)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vibhutipatel222&show_icons=true)  
