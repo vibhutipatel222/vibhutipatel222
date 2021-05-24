@@ -20,17 +20,19 @@ I am a 3rd year B. Tech (Computer Engineering) Student in Devang Patel Institute
 
 <details>
   <summary>
+    
 ### Github stats:
 </summary>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhutipatel222&theme=tokyonight)]
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vibhutipatel222&show_icons=true)  
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vibhutipatel222)  
 </details>
 <!--
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vibhutipatel222)  
 
 https://icons.iconarchive.com/icons/cornmanthe3rd/metronome/256/Communication-email-blue-icon.png
 
